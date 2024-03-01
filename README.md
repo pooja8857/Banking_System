@@ -19,7 +19,7 @@ Sample banking system application class design
 3. Running Tests
    ```bash
    cd tests
-   python tests.py
+   pytest tests.py
    ````
    
 # Project Structure
